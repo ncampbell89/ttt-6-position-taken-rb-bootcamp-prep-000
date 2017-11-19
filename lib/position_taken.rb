@@ -5,7 +5,7 @@ def position_taken?(board, index)
   puts "-----------"
   puts "   |   |   "
 
-  if board = []
+  if board == []
     index == 0
   end
 end
